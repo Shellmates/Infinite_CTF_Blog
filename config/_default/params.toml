@@ -43,7 +43,7 @@ showFeedLinks = true
 showSocialLinks = true
 enableLangChange = true
 enableThemeChange = true
-themeOptions = ["hacker", "dark", "light", "solarized", "custom"]
+themeOptions = ["dark", "hacker", "light", "solarized", "custom"]
 
 # service
 baiduAnalytics = ""
