@@ -1,6 +1,6 @@
-baseURL = "https://shellmates.github.io/"
-title = "Shellmates Blog"
-theme = "zzotheme"
+baseURL = "http://example.org/"
+title = "Hugo Zzo Theme"
+theme = "zzo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
