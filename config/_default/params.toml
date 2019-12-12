@@ -100,12 +100,12 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  email = "mailto:shellmates@esi.dz"
+  facebook = "https://www.facebook.com/shellmates/"
+  twitter = "https://twitter.com/shellmates"
+  github = "https://github.com/shellmates"
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://www.instagram.com/shellmates"
   google-plus = ""
   youtube = ""
   medium = ""
