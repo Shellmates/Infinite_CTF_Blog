@@ -7,7 +7,7 @@ tags = [
     "news",
     "misc",
 ]
-featured_image = "feature2/content.png"
+featured_image = "/images/feature2/content.png"
 +++
 
 ### Introduction
